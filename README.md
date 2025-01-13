@@ -2,6 +2,19 @@
 
 ## Description
 
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      The Mars Nexus Wrapper is a Python library that interfaces with multiple NASA APIs to fetch data related to Mars. The library provides functions for retrieving Mars weather data, orbital data, images from Mars rovers, and other Mars-related information.
+    </td>
+    <td>
+      <img src="https://github.com/ericmaddox/mars-nexus-wrapper/blob/main/media/Mars_nexus_wrapper_logo2.PNG" width="1500"/>
+    </td>
+  </tr>
+</table>
+
+## Description
+
 The **Mars Nexus Wrapper** is a Python library that interfaces with multiple NASA APIs to fetch data related to Mars. The library provides functions for retrieving Mars weather data, orbital data, images from Mars rovers, and other Mars-related information.
 
 This wrapper is designed to interact with the following NASA endpoints:
