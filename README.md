@@ -27,8 +27,8 @@ This wrapper is designed to interact with the following NASA endpoints:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/mars_nexus_wrapper.git
-    cd mars_nexus_wrapper
+    git clone https://github.com/yourusername/mars-nexus-wrapper.git
+    cd mars-nexus-wrapper
     ```
 
 2. Create and activate a virtual environment:
